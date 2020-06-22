@@ -1,0 +1,2 @@
+rootProject.name='Web Notes'
+include ':app'
